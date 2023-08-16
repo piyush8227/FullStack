@@ -12,7 +12,12 @@
 * These data have been collected from real patients in hospitals from Sao Paulo, Brazil. 
 * The aim of this dataset is to encourage the research and development of artificial intelligent methods which are able to identify if a person is infected by SARS-CoV-2 through the analysis of his/her CT scans.
 
-## **3. Approach towards problem:-**
+## **3. Steps to run the project in system:-**
+* Clone or download the repository from Github.
+* Download the image data [Zip file](https://drive.google.com/file/d/1iqtiC9krc44QbLFDH0XsElI5cHoy4P56/view?usp=sharing) from here and save it to the root folder of the project.
+* After that run the Code file in your desired notebook, eg. Jupyter notebook, Google Collab, VS Code.
+
+## **4. Approach towards problem:-**
 
   * **Data Preprocessing:**
     * Downloaded the data.zip file and extracted the COVID and Non-COVID directories.
@@ -44,11 +49,6 @@
     * Evaluated model using metrics like accuracy, precision, recall, F1-Score, and confusion matrix on validation set.
     * Loaded a test image, preprocessed it and used model to predict the class whether COVID or Non-COVID of the test image.
    
-## **4. Steps to run the project in system:-**
-* Clone or download the repository from Github.
-* Download the image data [Zip file](https://drive.google.com/file/d/1iqtiC9krc44QbLFDH0XsElI5cHoy4P56/view?usp=sharing) from here and save it to the root folder of the project.
-* After that run the Code file in your desired notebook, eg. Jupyter notebook, Google Collab, VS Code.
-
 ## **5. Tech Stack used:-**
 * Python
 * VS Code Jupyter Notebooks
