@@ -56,6 +56,11 @@
 * Visualization libraries like Matplotlib.Pyplot, and Seaborn.
 * Numpy, Pandas, PIL(Pillow module), and Sklearn.
 
+
+![Colourful Music Concert Event YouTube Thumbnail](https://github.com/piyush8227/FullStack/assets/78916771/2525babb-adfb-486c-8280-e39ed09ab535)
+
+[Video demo for the project](https://youtu.be/Ir-0eR5ZO00)
+
 ## **6. References:-**
 * **[Keras](https://keras.io/api/)**
 * **[TensorFlow](https://www.tensorflow.org/)**
